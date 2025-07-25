@@ -8,5 +8,8 @@ Backend Developer passionate about JavaScript, Shopify, and Shopify.
 ## 🚀 Skills
 - HTML | CSS | JavaScript | Shopify | GraphQl | PHP | Wordpress | SQL | Laravel
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayasharma5372&show_icons=true&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna-shirsath&show_icons=true&locale=en&layout=compact" alt="Prasanna-shirsath" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasanna-shirsath&show_icons=true&theme=radical)
 
